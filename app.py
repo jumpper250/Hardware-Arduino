@@ -47,4 +47,5 @@ void loop()
   digitalWrite(8,1);
   Serial.println(readLDR);
   delay(250);
+
 }
